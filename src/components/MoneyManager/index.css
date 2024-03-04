@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.first-section {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  padding: 20px;
+  margin: 50px;
+  border-radius: 40px;
+  height: 100%;
+  background-size: cover;
+}
+.money {
+  color: #0b69ff;
+}
+.money-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.last-f {
+  background-color: white;
+  border: 1px solid;
+  height: 45vh;
+  width: 35vw;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 80px;
+  margin-top: 30px;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.input {
+  padding: 10px;
+  height: 40px;
+}
+.last-section {
+  display: flex;
+}
+
+.last-f1 {
+  background-color: white;
+  border: 1px solid;
+  height: 45vh;
+  width: 45vw;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 80px;
+  margin-left: -50px;
+  margin-top: 30px;
+  list-style-type: none;
+}
+.button {
+  background-color: #0b69ff;
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  margin-top: 20px;
+  width: 100px;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+}
+.mar {
+  margin-left: 50px;
+}
+
+.mar1 {
+  margin-left: 20px;
+}
+.main1 {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}

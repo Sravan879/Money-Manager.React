@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ecfccb;
+  border: 1px solid;
+  border-radius: 10px;
+  height: 15vh;
+  width: 25vw;
+  padding: 10px;
+  margin-left: -40px;
+  margin-right: 10px;
+  display: flex;
+}
+
+.img {
+  height: 80px;
+  width: 80px;
+  margin-top: 17px;
+  margin-left: 15px;
+}
+.bg1 {
+  background-color: #cffafe;
+  border: 1px solid;
+  border-radius: 10px;
+  height: 15vh;
+  width: 25vw;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+}
+.bg2 {
+  background-color: #ede9fe;
+  border: 1px solid;
+  border-radius: 10px;
+  height: 15vh;
+  width: 25vw;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+}
